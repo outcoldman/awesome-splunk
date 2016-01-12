@@ -27,6 +27,11 @@
     - [SplunkDev Twitter](https://twitter.com/splunkdev)
   - [Splunk Wiki, a community space where you can share what you know with other Splunk users](http://wiki.splunk.com/Main_Page)
   - [Splunk Blogs](http://blogs.splunk.com)
+  - [Find a Splunk User Group](https://usergroups.splunk.com)
+  - [Splunk .conf - Annual Splunk Conference](http://conf.splunk.com)
+    - [2015 - Recordings](http://conf.splunk.com/speakers.html#_content_splunk-conf_speakers_jcr_content_parsys_session_filter)
+    - [2014 - Recordings](http://conf.splunk.com/speakers/2014.html#)
+    - [2013 - Recordings](http://conf.splunk.com/speakers/2013.html#)
   - Employees (do not add without granting permission from person)
     - Den Gladkikh - Dev - Core, KVStore, Docker, Management
       - [GitHub](http://github.com/outcoldman/)
