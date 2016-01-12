@@ -22,6 +22,8 @@
   - [Splunk Answers (Ask Questions, Get Support)](https://answers.splunk.com)
       - [Splunk Answers User manual](http://docs.splunk.com/Documentation/Splunkbase/latest/Answers/AboutAnswers)
   - [Splexicon - The Splexicon defines technical terms that are specific to Splunk.](http://docs.splunk.com/Splexicon)
+  - Security
+      - [The Windows Splunk Logging Cheat Sheet](http://www.malwarearchaeology.com/s/Windows-Splunk-Logging-Cheat-Sheet-v10.pdf)      
   - Social
     - [Splunk Twitter](https://twitter.com/splunk)
     - [SplunkDev Twitter](https://twitter.com/splunkdev)
