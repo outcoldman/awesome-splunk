@@ -31,7 +31,7 @@
       - [Twitter](https://twitter.com/outcoldman)
       - [WebSite](https://outcoldman.com)
 - Splunk & [Docker](https://www.docker.com)
-  - [Unofficial Splunk Images](https://hub.docker.com/r/outcoldman/splunk/) - ([source](https://github.com/outcoldman/docker-splunk])
+  - [Unofficial Splunk Images](https://hub.docker.com/r/outcoldman/splunk/) - ([source](https://github.com/outcoldman/docker-splunk]))
     - [Fork with NFSv4 mount](https://github.com/DoubleDensity/docker-splunk)
   - [Integrating Splunk with Docker, CoreOS, and JournalD](http://blogs.splunk.com/2015/04/30/integrating-splunk-with-docker-coreos-and-journald/)
   - [Collecting docker logs and stats with Splunk](http://blogs.splunk.com/2015/08/24/collecting-docker-logs-and-stats-with-splunk/)
