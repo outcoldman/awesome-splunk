@@ -1,0 +1,38 @@
+# Awesome Splunk
+
+> A curated list of awesome Splunk links
+
+- [Official Website](https://www.splunk.com)
+  - [Downloads](https://www.splunk.com/download)
+    - [Older Splunk Releases](https://www.splunk.com/page/previous_releases)
+  - [SplunkBase - Apps and Add-ons](https://splunkbase.splunk.com)
+    - [Publishers: Working with Splunkbase](http://docs.splunk.com/Documentation/Splunkbase/latest/Splunkbase/Introduction)
+    - [Publishers: Splunk Apps Entitlement API Reference](http://docs.splunk.com/Documentation/Splunkbase/latest/SBAPI/AbouttheSplunkbaseEntitlementAPI)
+  - [Documentation](https://docs.splunk.com)
+    - [Splunk Enterprise - Latest - Documentation](http://docs.splunk.com/Documentation/Splunk/latest/)
+  - [Development](http://dev.splunk.com)
+    - [Splunk SDKs](http://dev.splunk.com/sdks)
+    - [Splunk SDKs](http://docs.splunk.com/Documentation/SDK)
+    - [Overview of Splunk Developer Tools](http://dev.splunk.com/tools)
+    - [Web Framework](http://docs.splunk.com/Documentation/WebFramework)
+    - [GitHub](https://github.com/splunk)
+    - [REST API Overview](http://dev.splunk.com/restapi)
+  - [Splunk Answers (Ask Questions, Get Support)](https://answers.splunk.com)
+      - [Splunk Answers User manual](http://docs.splunk.com/Documentation/Splunkbase/latest/Answers/AboutAnswers)
+  - [Splexicon - The Splexicon defines technical terms that are specific to Splunk.](http://docs.splunk.com/Splexicon)
+  - Social
+    - [Splunk Twitter](https://twitter.com/splunk)
+    - [SplunkDev Twitter](https://twitter.com/splunkdev)
+  - [Splunk Wiki, a community space where you can share what you know with other Splunk users](http://wiki.splunk.com/Main_Page)
+  - [Splunk Blogs](http://blogs.splunk.com)
+  - Employees (do not add without granting permission from person)
+    - Den Gladkikh - Dev - Core, KVStore, Docker, Management
+      - [GitHub](http://github.com/outcoldman/)
+      - [Twitter](https://twitter.com/outcoldman)
+      - [WebSite](https://outcoldman.com)
+- Splunk & [Docker](https://www.docker.com)
+  - [Unofficial Splunk Images](https://hub.docker.com/r/outcoldman/splunk/) - ([source](https://github.com/outcoldman/docker-splunk])
+    - [Fork with NFSv4 mount](https://github.com/DoubleDensity/docker-splunk)
+  - [Integrating Splunk with Docker, CoreOS, and JournalD](http://blogs.splunk.com/2015/04/30/integrating-splunk-with-docker-coreos-and-journald/)
+  - [Collecting docker logs and stats with Splunk](http://blogs.splunk.com/2015/08/24/collecting-docker-logs-and-stats-with-splunk/)
+  - [Splunk Logging Driver for Docker](http://blogs.splunk.com/2015/12/16/splunk-logging-driver-for-docker/)
